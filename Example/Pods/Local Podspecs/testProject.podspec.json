@@ -1,0 +1,22 @@
+{
+  "name": "testProject",
+  "version": "0.1.0",
+  "summary": "A short description of testProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Hehc930214/testProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chaozhi.he": "chaozhi.he@ushow.media"
+  },
+  "source": {
+    "git": "https://github.com/Hehc930214/testProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "testProject/Classes/**/*"
+}
